@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApp2", "WindowsFormsApp2\WindowsFormsApp2.csproj", "{506371E0-D099-400B-83A4-57CCC9EBC1AC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dominio", "dominio\dominio.csproj", "{4C021227-FF21-45C5-AB57-F15083B3A274}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "datos", "Datos\datos.csproj", "{74E2BB20-2259-4711-A6B6-1F95EC86CA18}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{506371E0-D099-400B-83A4-57CCC9EBC1AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{506371E0-D099-400B-83A4-57CCC9EBC1AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{506371E0-D099-400B-83A4-57CCC9EBC1AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{506371E0-D099-400B-83A4-57CCC9EBC1AC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C021227-FF21-45C5-AB57-F15083B3A274}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C021227-FF21-45C5-AB57-F15083B3A274}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C021227-FF21-45C5-AB57-F15083B3A274}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C021227-FF21-45C5-AB57-F15083B3A274}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74E2BB20-2259-4711-A6B6-1F95EC86CA18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74E2BB20-2259-4711-A6B6-1F95EC86CA18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74E2BB20-2259-4711-A6B6-1F95EC86CA18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74E2BB20-2259-4711-A6B6-1F95EC86CA18}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3F8D8377-365B-409A-9A4C-8768DDF3A046}
+	EndGlobalSection
+EndGlobal
